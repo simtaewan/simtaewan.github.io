@@ -8,14 +8,14 @@
   
   <meta name="robots" content="all"/>
   <meta name="author" content="Author Name">
-  <meta name="description" content="hahaha">
+  <meta name="description" content="오류:">
   <meta property="og:image" content="">
 
   
-  <title>ahrkrzh</title>
+  <title>jekyll 설치 중 오류 나는 경우</title>
   
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="https://future-imperfect.kaptn.ru/mgc/2021/ahrkrzh.html">
+  <link rel="canonical" href="https://future-imperfect.kaptn.ru/instruction/2021/jekyll.html">
   <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/animate.css">
   <script src="/assets/js/jquery.min.js"></script>
@@ -83,22 +83,36 @@
         <article class="post">
   <header> 
     <div class="title">
-      <h2>ahrkrzh</h2>
-      <p><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-ahrkrzh.md" class="icon"><i class="fas fa-fw fa-edit"></i> GITHUB로 편집하기</a></p>
+      <h2>jekyll 설치 중 오류 나는 경우</h2>
+      <p><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-jekyll.md" class="icon"><i class="fas fa-fw fa-edit"></i> GITHUB로 편집하기</a></p>
     </div>
     <div class="meta">
-      <time class="published" datetime="2021-06-23 08:00:00 +0900">23 Jun 2021 08:00</time>
+      <time class="published" datetime="2021-06-23 09:00:00 +0900">23 Jun 2021 09:00</time>
       <a href="//github.io" class="author"><span class="name">V.Last Name</span><img src="/images/avatar.jpeg" alt="ViKapitoshka" /></a>
     </div>
   </header>
-  <p>hahaha</p>
+  <h3 id="오류">오류:</h3>
+
+<p>#gem install jekyll Building native extensions. This could take a while… ERROR: Error installing jekyll: ERROR: Failed to build gem native extension.</p>
+
+<p>current directory: /var/lib/gems/2.7.0/gems/eventmachine-1.2.7/ext /usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210623-5375-1iun7he.rb extconf.rb mkmf.rb can’t find header files for ruby at /usr/lib/ruby/include/ruby.h</p>
+
+<p>You might have to install separate package for the ruby development environment, ruby-dev or ruby-devel for example.</p>
+
+<p>extconf failed, exit code 1</p>
+
+<p>Gem files will remain installed in /var/lib/gems/2.7.0/gems/eventmachine-1.2.7 for inspection. Results logged to /var/lib/gems/2.7.0/extensions/x86_64-linux/2.7.0/eventmachine-1.2.7/gem_make.out</p>
+
+<h3 id="해결">해결:</h3>
+
+<p>sudo apt install build-essential ruby-dev make gcc</p>
 
   
   <!--주석처리 <p>Подписывайтесь на наш <a href="http://t.me/vikablog">канал</a> в телеграмме :) -->
   <footer>
     <ul class="stats">
       <li><a class="icon" href="https://future-imperfect.kaptn.ru"><i class="fas fa-fw fa-folder"></i> 블로그 메인</a></li>
-      <li><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-ahrkrzh.md" class="icon"><i class="fas fa-fw fa-edit"></i> Edit</a></li>
+      <li><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-jekyll.md" class="icon"><i class="fas fa-fw fa-edit"></i> Edit</a></li>
     </ul>
   </footer>
   
