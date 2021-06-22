@@ -1,6 +1,9 @@
 # blog page sections
-- name: category1
-  href: '/category1/'
+- name: basic
+  href: '/basic/'
 
-- name: category2
-  href: '/category2/'
+- name: 모각코
+  href: '/mgc/'
+
+- name: instruction
+  href: '/instruction/'

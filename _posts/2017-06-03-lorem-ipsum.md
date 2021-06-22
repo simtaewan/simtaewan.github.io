@@ -1,8 +1,8 @@
 ---
+title: Lorem ipsum
 layout: post
-title:  "Lorem ipsum"
-date:   2017-06-03 00:00
-category: category1
+date: 2017-06-03 00:00
+category: instruction
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
