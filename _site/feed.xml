@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-15T20:03:11+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715.html">&lt;p&gt;목표:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-15T22:59:33+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210715 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html" rel="alternate" type="text/html" title="210715 모각코 결과" /><published>2021-07-15T22:59:28+09:00</published><updated>2021-07-15T22:59:28+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html">&lt;p&gt;결과: 
+계획대로 수행한 것: 발표하기, 발표듣기
+알게 된 점: nextInt()의 활용법&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">결과: 계획대로 수행한 것: 발표하기, 발표듣기 알게 된 점: nextInt()의 활용법</summary></entry><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715.html">&lt;p&gt;목표:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Stream 발표하기, 발표 듣기&lt;/li&gt;
   &lt;li&gt;피드백해주기&lt;/li&gt;
@@ -49,13 +51,4 @@
 
 &lt;h3 id=&quot;해결&quot;&gt;해결:&lt;/h3&gt;
 
-&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry><entry><title type="html">Blog Setup</title><link href="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html" rel="alternate" type="text/html" title="Blog Setup" /><published>2021-06-23T07:00:00+09:00</published><updated>2021-06-23T07:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2021/blog-setup</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html">&lt;p&gt;jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;requirement : ruby-bundler&lt;/li&gt;
-  &lt;li&gt;http://labs.brandi.co.kr/2018/05/14/chunbs.html&lt;/li&gt;
-  &lt;li&gt;Theme1: http://jekyllthemes.org/themes/israh/&lt;/li&gt;
-  &lt;li&gt;Theme2: http://jekyllthemes.org/themes/Pinghsu-Theme/&lt;/li&gt;
-  &lt;li&gt;Theme3: http://jekyllthemes.org/themes/Kross-portfolio-theme/&lt;/li&gt;
-  &lt;li&gt;Theme4(*): http://jekyllthemes.org/themes/future-imperfect/&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md</summary></entry></feed>
+&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry></feed>
