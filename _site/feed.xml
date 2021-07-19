@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T21:02:45+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719.html">&lt;p&gt;목표:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T22:48:41+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T22:48:33+09:00</published><updated>2021-07-19T22:48:33+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;결과:
+계획대로 수행한 점: 바이트기반 스트림과 문자기반 스트림에 대한 공부&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">결과: 계획대로 수행한 점: 바이트기반 스트림과 문자기반 스트림에 대한 공부</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719.html">&lt;p&gt;목표:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;바이트기반 스트림에 대한 공부&lt;/li&gt;
   &lt;li&gt;문자기반 스트림에 대한 공부&lt;/li&gt;
@@ -29,16 +30,4 @@
 &lt;ol&gt;
   &lt;li&gt;Collection, List, Set, Map 강의(남궁성 유튜브채널) 들으며 개념 익히기&lt;/li&gt;
   &lt;li&gt;관련 문제 1문제 골라서 풀기&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표: Collection, List, Set, Map 강의(남궁성 유튜브채널) 들으며 개념 익히기 관련 문제 1문제 골라서 풀기</summary></entry><entry><title type="html">2021 하계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html" rel="alternate" type="text/html" title="2021 하계 모각코 개인별 목표 설정" /><published>2021-06-23T17:30:00+09:00</published><updated>2021-06-23T17:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
-&lt;h3 id=&quot;학번-이름--202102549-심태완&quot;&gt;😀학번, 이름 : 202102549, 심태완&lt;/h3&gt;
-&lt;h3 id=&quot;목표--java-실력-증진&quot;&gt;🎡목표 : JAVA 실력 증진&lt;/h3&gt;
-
-&lt;h3 id=&quot;일정-&quot;&gt;📄일정 :&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1회차[7/5],  JAVA-Collection, List, Set, Map 공부&lt;/li&gt;
-  &lt;li&gt;2회차[7/8],  관련 개념과 문제에 대한 발표&lt;/li&gt;
-  &lt;li&gt;3회차[7/12],  JAVA-Stream 공부&lt;/li&gt;
-  &lt;li&gt;4회차[7/15],  관련 개념과 문제에 대한  발표&lt;/li&gt;
-  &lt;li&gt;5회차[7/19],  JAVA-Closure 공부&lt;/li&gt;
-  &lt;li&gt;6회차[7/22],  관련 개념과 문제에 대한 발표&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102549, 심태완 🎡목표 : JAVA 실력 증진</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표: Collection, List, Set, Map 강의(남궁성 유튜브채널) 들으며 개념 익히기 관련 문제 1문제 골라서 풀기</summary></entry></feed>
