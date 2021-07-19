@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-15T22:59:33+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210715 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html" rel="alternate" type="text/html" title="210715 모각코 결과" /><published>2021-07-15T22:59:28+09:00</published><updated>2021-07-15T22:59:28+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html">&lt;p&gt;결과: 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T20:02:56+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719.html">&lt;p&gt;목표:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;자바 Closer에 대한 공부&lt;/li&gt;
+  &lt;li&gt;자바 Closer에 대한 문제 풀이&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표: 자바 Closer에 대한 공부 자바 Closer에 대한 문제 풀이</summary></entry><entry><title type="html">210715 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html" rel="alternate" type="text/html" title="210715 모각코 결과" /><published>2021-07-15T22:59:28+09:00</published><updated>2021-07-15T22:59:28+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html">&lt;p&gt;결과: 
 계획대로 수행한 것: 발표하기, 발표듣기
 알게 된 점: nextInt()의 활용법&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">결과: 계획대로 수행한 것: 발표하기, 발표듣기 알게 된 점: nextInt()의 활용법</summary></entry><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715.html">&lt;p&gt;목표:&lt;/p&gt;
 &lt;ol&gt;
@@ -37,18 +41,4 @@
   &lt;li&gt;4회차[7/15],  관련 개념과 문제에 대한  발표&lt;/li&gt;
   &lt;li&gt;5회차[7/19],  JAVA-Closure 공부&lt;/li&gt;
   &lt;li&gt;6회차[7/22],  관련 개념과 문제에 대한 발표&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102549, 심태완 🎡목표 : JAVA 실력 증진</summary></entry><entry><title type="html">jekyll 설치 중 오류 나는 경우</title><link href="https://future-imperfect.kaptn.ru/instruction/2021/jekyll.html" rel="alternate" type="text/html" title="jekyll 설치 중 오류 나는 경우" /><published>2021-06-23T09:00:00+09:00</published><updated>2021-06-23T09:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2021/jekyll</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2021/jekyll.html">&lt;h3 id=&quot;오류&quot;&gt;오류:&lt;/h3&gt;
-
-&lt;p&gt;#gem install jekyll Building native extensions. This could take a while… ERROR: Error installing jekyll: ERROR: Failed to build gem native extension.&lt;/p&gt;
-
-&lt;p&gt;current directory: /var/lib/gems/2.7.0/gems/eventmachine-1.2.7/ext /usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210623-5375-1iun7he.rb extconf.rb mkmf.rb can’t find header files for ruby at /usr/lib/ruby/include/ruby.h&lt;/p&gt;
-
-&lt;p&gt;You might have to install separate package for the ruby development environment, ruby-dev or ruby-devel for example.&lt;/p&gt;
-
-&lt;p&gt;extconf failed, exit code 1&lt;/p&gt;
-
-&lt;p&gt;Gem files will remain installed in /var/lib/gems/2.7.0/gems/eventmachine-1.2.7 for inspection. Results logged to /var/lib/gems/2.7.0/extensions/x86_64-linux/2.7.0/eventmachine-1.2.7/gem_make.out&lt;/p&gt;
-
-&lt;h3 id=&quot;해결&quot;&gt;해결:&lt;/h3&gt;
-
-&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102549, 심태완 🎡목표 : JAVA 실력 증진</summary></entry></feed>
